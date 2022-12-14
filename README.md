@@ -14,4 +14,6 @@ chatRoom : create chat room with multi-thread(in client&server)
 
 
 # Appendix
+
 http://www.hanbit.co.kr/exam/4457  |  Details : Getting start JAVA\Getting_Java\MyJava02\src\com\chap16\sec03
+http://cafe.naver.com/javacircle.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=36277&
