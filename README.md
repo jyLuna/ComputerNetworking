@@ -6,7 +6,7 @@ server : work in server
 
 messenger : register and log in
 
-list : the list of freinds
+list : the list of freinds and change the details of user
 
 chatting : can chatting 2 or more people with multi-thread(only in server)
 
