@@ -13,5 +13,5 @@ chatting : can chatting 2 or more people with multi-thread(only in server)
 chatRoom : create chat room with multi-thread(in client&server)
 
 
-- Appendix
-
+# Appendix
+http://www.hanbit.co.kr/exam/4457  |  Getting start JAVA\Getting_Java\MyJava02\src\com\chap16\sec03
